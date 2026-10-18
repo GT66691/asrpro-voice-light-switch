@@ -1,0 +1,10 @@
+# 天问Block / 编译产物
+fw.bin
+*.bin
+build/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
