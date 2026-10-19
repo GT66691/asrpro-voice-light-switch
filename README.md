@@ -183,6 +183,4 @@ void ASR_CODE(){
 └── .gitignore
 ```
 
-## License
 
-未指定。发布到 GitHub 前建议添加 **MIT** 或 **Apache-2.0** 许可证。
